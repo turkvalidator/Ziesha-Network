@@ -51,7 +51,7 @@ uzi-miner --node 127.0.0.1:8765 --threads 32
 
 
 
-
+değişiklik
 
 
 
